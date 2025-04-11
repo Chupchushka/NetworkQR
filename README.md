@@ -5,7 +5,7 @@ Prgoram made in python that generates a QR code to connect a WIFI network
 
 ### Instalation & usage
 
-![WARNING]
+> ![WARNING]
 > You need to have ```python interpreter``` to download it!
 
 1. Clone the repository:
